@@ -92,6 +92,7 @@ main{
 /* skill */
 .about-me{
     text-align: center;
+    margin-top: 50px;
 }
 .cart-main{
     display: flex;
@@ -105,4 +106,46 @@ main{
     padding: 35px;
     box-shadow: 8px 8px 8px rgb(230, 228, 225);
     margin-top: 20px;
+}
+.resume{
+    text-align: center;
+    margin-top: 30px;
+    margin-top: 50px;
+}
+.resume-container{
+    display: flex;
+    text-align: justify;
+    gap: 20px;
+}
+.footer{
+    background-color: #f5ddcc;
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    padding: 50px;
+    margin-top: 50px;
+}
+.input-name{
+    display: block;
+    margin-bottom: 30px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 7px;
+    background: rgb(193, 192, 192);
+}
+.input-email{
+    display: block;
+    margin-bottom: 30px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 7px;
+    background: rgb(193, 192, 192);
+}
+.text-area{
+    display: block;
+    margin-bottom: 30px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 7px;
+    background: rgb(193, 192, 192);
 }
